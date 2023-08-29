@@ -1,2 +1,2 @@
-# HowToNasa
+# Spoon
 Team iOS project 
